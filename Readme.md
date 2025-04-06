@@ -21,8 +21,8 @@ This is a Spring Boot application that provides user registration and login func
 1. **Clone the Repository:**
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/umeshkhatiwada13/Mental_Health_Assessment
+   cd Mental_Health_Assessment
 
 Configure the Database: Edit src/main/resources/application.properties to configure your database connection.
 spring.datasource.url=jdbc:postgresql://localhost:5432/yourdbname
